@@ -1,0 +1,54 @@
+.zagal1{
+	font-size: 30;
+	font-family: Arial;
+	color: black;
+}
+
+
+.zagal2{
+	font-size: 20;
+	font-family: Arial;
+	color: black;
+}
+
+.zagal_na_jelt{
+	height: 30px;
+
+	vertical-align:center;
+	font-size: 30;
+	font-family: Arial;
+	font-weight: bold;
+	color: black;
+	background-color: #ffad33;
+}
+
+.standart{
+	font-family: Arial;
+	color: black;
+	font-size: 16;
+}
+
+.ser{
+
+	font-size: 16;
+	font-family: Arial;
+	color: gray;
+}
+
+.jirn{
+
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 16;
+}
+
+.jirn_ser{
+	font-weight: bold;
+	font-family: Arial;
+	color: gray;
+	font-size: 16;
+}
+
+.yach{
+	vertical-align: top;
+}

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'LatoBI';
+    src: url('../fonts/Lato-BoldItalic.ttf' format("truetype"));
+    }
+
+@font-face {
+    font-family: 'LatoR';
+    src: url('../fonts/Lato-Regular.ttf' format("truetype"));
+    }
+	
+@font-face {
+    font-family: 'LatoB';
+    src: url('../fonts/Lato-Bold.ttf' format("truetype"));
+    }
+
+@font-face {
+    font-family: 'LatoI';
+    src: url('../fonts/Lato-Italic.ttf' format("truetype"));
+    }
+	

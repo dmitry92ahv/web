@@ -1,0 +1,58 @@
+body {
+  
+  background-color: #f8f9fd;
+  width: 1400px;
+}
+
+.header {
+  font-size: 32px;
+  font-color: #333333;
+  font-family: LatoBI;
+
+  padding: 77px 0 80px 223px;
+}
+
+main{
+  margin: 0 224px 105px 224px;
+  padding: 0 98px 87px 98px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px black;
+
+}
+
+
+
+footer{
+  padding: 67px 0 67px 0;
+  background-color: #5c6dc0;
+  font-size: 26px;
+  font-family: LatoBI;
+  text-align: center;
+  color: #4a569a;
+}
+
+.main__profile{
+  font-family: LatoB;
+  font-size: 30px;
+  padding: 80px 0 40px 0;
+}
+
+.main__hr{
+  color: #eeeeee;
+  size: 2px;
+}
+
+.maim-content{
+  padding: 0 294px 0 294px;
+}
+
+.main-content__form{
+  padding: 46px 0 0 0;
+  width: 364px;
+  font-size: 14px;
+}
+
+
+
+
+
